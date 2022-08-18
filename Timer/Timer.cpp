@@ -5,7 +5,7 @@
 
 
 HDC hDC;
-time_t StartTime;
+time_t StartTime;;;;
 
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 //====================================================================
